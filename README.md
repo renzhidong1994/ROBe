@@ -6,4 +6,4 @@ This is part of ROBe project.
 #open Serial Monitor to check Serial.println ,there are distance\acc\gyro\magnetometer data
 //=============================================================================
 #Connection:useing I2C bus, and SDA20,SCL21 PINS for transmission
-==============================================================================//
+=============================================================================//
